@@ -18,6 +18,7 @@ Pandas
 Matplotlib / Seaborn
 Scikit-learn
 📂 Project Structure
+```
 Gold-Price-Prediction/
 │── data/                 # Dataset files
 │── notebooks/            # Jupyter notebooks
@@ -26,7 +27,7 @@ Gold-Price-Prediction/
 │── results/              # Output graphs/results
 │── README.md             # Project documentation
 
-
+```
 📊 Dataset
 Historical gold price data collected from reliable financial sources
 Features may include:

@@ -1,24 +1,24 @@
 # 🪙 Gold Price Prediction using Machine Learning
-##📌 Overview
+#📌 Overview
 
 This project focuses on predicting gold prices using machine learning techniques. Gold price forecasting is important for investors, traders, and financial analysts to make informed decisions.
 
 The model is trained on historical gold price data and uses various features like market indicators, currency values, and economic factors.
 
-##🚀 Features
+#🚀 Features
 📊 Data preprocessing and cleaning
 📈 Exploratory Data Analysis (EDA)
 🤖 Machine Learning model training
 📉 Price prediction visualization
 📌 Performance evaluation (Accuracy, RMSE, etc.)
 
-##🛠️ Tech Stack
+#🛠️ Tech Stack
 Python 🐍
 NumPy
 Pandas
 Matplotlib / Seaborn
 Scikit-learn
-##📂 Project Structure
+#📂 Project Structure
 ```
 Gold-Price-Prediction/
 │── data/                 # Dataset files
@@ -29,7 +29,7 @@ Gold-Price-Prediction/
 │── README.md             # Project documentation
 
 ```
-##📊 Dataset
+#📊 Dataset
 Historical gold price data collected from reliable financial sources
 Features may include:
 Gold price (target)
@@ -37,7 +37,7 @@ USD value
 Oil prices
 Inflation rate
 
-##⚙️ Installation
+#⚙️ Installation
 1. Clone the repository:
 > git clone https://github.com/your-username/gold-price-prediction.git
 
@@ -50,7 +50,7 @@ Inflation rate
 > pip install -r requirements.txt
 
 
-## ▶️ Usage
+# ▶️ Usage
 
 Run the main script:
 
@@ -63,31 +63,31 @@ Or open Jupyter Notebook:
 > jupyter notebook
 
 
-##📈 Model Used
+#📈 Model Used
 Linear Regression
 Random Forest Regressor
 (Optional) XGBoost
 
-##📉 Evaluation Metrics
+#📉 Evaluation Metrics
 Mean Absolute Error (MAE)
 Mean Squared Error (MSE)
 Root Mean Squared Error (RMSE)
 
-##📷 Output Example
+#📷 Output Example
 Graphs showing:
 Actual vs Predicted Prices
 Trend Analysis
 
-##🎯 Future Improvements
+#🎯 Future Improvements
 🔥 Deep Learning models (LSTM)
 🌍 Real-time data integration
 📊 Deployment using Flask / Streamlit
 
-##🤝 Contributing
+#🤝 Contributing
 
 Contributions are welcome! Feel free to fork this repo and submit a pull request.
 
-##📜 License
+#📜 License
 
 This project is licensed under the MIT License.
 

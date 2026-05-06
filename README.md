@@ -39,57 +39,61 @@ Inflation rate
 
 ## ⚙️ Installation
 1. Clone the repository:
+```
 > git clone https://github.com/your-username/gold-price-prediction.git
-
+```
 
 2. Navigate to project folder:
+```
 > cd gold-price-prediction
-
+```
 
 3. Install dependencies:
+```
 > pip install -r requirements.txt
+```
 
 
 ## ▶️ Usage
 
 Run the main script:
-
+```
 > python main.py
-
+```
 
 
 Or open Jupyter Notebook:
-
+```
 > jupyter notebook
-
+```
 
 ## 📈 Model Used
-Linear Regression
-Random Forest Regressor
-(Optional) XGBoost
+- Linear Regression
+- Random Forest Regressor
+- (Optional) XGBoost
 
 ## 📉 Evaluation Metrics
-Mean Absolute Error (MAE)
-Mean Squared Error (MSE)
-Root Mean Squared Error (RMSE)
+- Mean Absolute Error (MAE)
+- Mean Squared Error (MSE)
+- Root Mean Squared Error (RMSE)
 
 ## 📷 Output Example
-Graphs showing:
-Actual vs Predicted Prices
-Trend Analysis
+- Graphs showing:
+- Actual vs Predicted Prices
+- Trend Analysis
 
 ## 🎯 Future Improvements
-🔥 Deep Learning models (LSTM)
-🌍 Real-time data integration
-📊 Deployment using Flask / Streamlit
+- 🔥 Deep Learning models (LSTM)
+- 🌍 Real-time data integration
+- 📊 Deployment using Flask / Streamlit
 
 ## 🤝 Contributing
 
-Contributions are welcome! Feel free to fork this repo and submit a pull request.
+- Contributions are welcome! Feel free to fork this repo and submit a pull request.
 
 ## 📜 License
 
-This project is licensed under the MIT License.
+- This project is licensed under the MIT License.
 
 ## 💡 Author
 

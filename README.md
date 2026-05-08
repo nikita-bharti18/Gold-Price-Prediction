@@ -35,6 +35,7 @@ Gold-Price-Prediction/
 
 ```
 ## 📊 Dataset
+
 Historical gold price data collected from reliable financial sources
 Features may include:
 Gold price (target)
@@ -43,6 +44,7 @@ Oil prices
 Inflation rate
 
 ## ⚙️ Installation
+
 1. Clone the repository:
 ```
 > git clone https://github.com/your-username/gold-price-prediction.git
@@ -73,21 +75,25 @@ Or open Jupyter Notebook:
 ```
 
 ## 📈 Model Used
+
 - Linear Regression
 - Random Forest Regressor
 - (Optional) XGBoost
 
 ## 📉 Evaluation Metrics
+
 - Mean Absolute Error (MAE)
 - Mean Squared Error (MSE)
 - Root Mean Squared Error (RMSE)
 
 ## 📷 Output Example
+
 - Graphs showing:
 - Actual vs Predicted Prices
 - Trend Analysis
 
 ## 🎯 Future Improvements
+
 - 🔥 Deep Learning models (LSTM)
 - 🌍 Real-time data integration
 - 📊 Deployment using Flask / Streamlit
